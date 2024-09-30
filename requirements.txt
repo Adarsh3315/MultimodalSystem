@@ -1,0 +1,14 @@
+numpy
+pandas
+pillow
+torch
+transformers
+opencv-python
+mediapipe
+screen-brightness-control
+yfinance
+googletrans==4.0.0-rc1
+deepface
+streamlit
+streamlit-lottie
+tf-keras
